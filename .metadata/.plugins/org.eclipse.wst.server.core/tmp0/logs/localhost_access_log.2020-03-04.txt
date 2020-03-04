@@ -1,0 +1,2 @@
+127.0.0.1 - - [04/Mar/2020:09:51:33 -0600] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [04/Mar/2020:09:51:34 -0600] "GET /webproject-employeeregistration-karkiB/WEB-INF/employeedetails.jsp HTTP/1.1" 404 1013
